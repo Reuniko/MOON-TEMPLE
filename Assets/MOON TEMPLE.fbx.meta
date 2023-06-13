@@ -33,6 +33,33 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
+  - first:
+      74: -4479882580254857517
+    second: Ring 1|Ring 1Action
+  - first:
+      74: 3248749372757768792
+    second: Ring 1|Ring 2Action
+  - first:
+      74: -6363725400366504954
+    second: Ring 1|Ring 3Action
+  - first:
+      74: 2468871708723820901
+    second: Ring 2|Ring 1Action
+  - first:
+      74: -3100375010442207527
+    second: Ring 2|Ring 2Action
+  - first:
+      74: -3606956988615036280
+    second: Ring 2|Ring 3Action
+  - first:
+      74: 6556841130021124628
+    second: Ring 3|Ring 1Action
+  - first:
+      74: 3117221070581653963
+    second: Ring 3|Ring 2Action
+  - first:
+      74: -8065508681899489549
+    second: Ring 3|Ring 3Action
   externalObjects: {}
   materials:
     materialImportMode: 1

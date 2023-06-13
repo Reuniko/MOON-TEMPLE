@@ -172,7 +172,7 @@ Material:
     - _EmissionMapStochasticToggle: 0
     - _EmissionToggle: 0
     - _FlowMapUV: 0
-    - _FlowSpeed: 2
+    - _FlowSpeed: 4
     - _FlowStrength: 1
     - _FlowToggle: 1
     - _FoamCrestStrength: 1
